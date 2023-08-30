@@ -13,4 +13,5 @@
   <img src="assets/11.jpg" alt="gorsel11" width="300" height="600" style="margin-right: 10px;">
   <img src="assets/12.jpg" alt="gorsel12" width="300" height="600" style="margin-right: 10px;">
   <img src="assets/13.jpg" alt="gorsel13" width="300" height="600">
+  
 </div>
